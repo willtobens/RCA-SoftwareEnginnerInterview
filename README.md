@@ -2,6 +2,7 @@
 
 ## TO RUN
 use php -S localhost:8000 or whatever port you prefer
+---
 
 Create a simple login page that autenticates a user and says on another page that you have successfully logged in. From that login page create a way for to create a new login of username and password. You can use any languages (PHP, HTML, CSS, JavasScript, Node.js etc.) or any frameworks (React, Bootstrap, Flutter, Angular, Vue.js, Ajax, JQuery, etc.) To make it easier for authentication you do not need store the data outside the project so they can be hard coded like testing.
 
